@@ -2,7 +2,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
+    <div className="font-bold underline">
       <h1>This is new react project called Tailwind-Vidly</h1>
     </div>
   );
